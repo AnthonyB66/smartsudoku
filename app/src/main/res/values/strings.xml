@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Smart Sudoku</string>
+    <string name="accueil">Smart Sudoku</string>
+    <string name="difficult">Niveaux</string>
+    <string name="Demarrer">Jouer</string>
+    <string name="Parametres">Parametres"</string>
+    <string name="regles">Règles"</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="facile">Facile</string>
+    <string name="moyen">Moyen</string>
+    <string name="difficile">Hard</string>
+    <string name="victoire">Vous avez gagné</string>
+    <string name="ultra">Ultra Hard(mode sudoku classique)</string>
+    <string name="Sortir">Sortir</string>
+    <string name="Vainqueur">Vous avez gagné</string>
+    <string name="Rejouer">Rejouer</string>
+
+
+    <string name="title_activity_difficulte">Niveaux</string>
+    <string name="title_activity_game">Mode Facile</string>
+    <string name="title_activity_moyen">Mode Moyen</string>
+    <string name="title_activity_difficile">Mode Difficile</string>
+    <string name="title_activity_ultra">Mode Ultra Hard</string>
+    <string name="title_activity_regles">Règles</string>
+    <string name="large_text">
+
+
+        "Le jeu Sudoku consiste à compléter une grille carrée divisée"
+        "en 9 régions de 9 cases(une région étant alors des carrés de 3×3)"
+        "partie remplie avec des chiffres, de façon que dans chaque ligne, chaque"
+        "colonne et chaque région les chiffres de 1 à 9 apparaissent une et une"
+        "seule fois.\n"
+        "Dans le jeu SmartSudoku une"
+        "option est ajoutée consiste à, quand l’utilisateur choisi une case, le jeu"
+        "affiche les chiffres possibles à rentrer, c’est-à-dire les chiffres non figurés"
+        "dans la ligne, la colonne et la région associées à la case choisie"
+        "Une fois que l'utilisateur à rentrer un chiffre dans la grille, celle-ci"
+        "s\'affiche en vert."
+        "Attention la case verte ne veut pas forcément dire que l'utilisateur a répondu vrai"
+    </string>
+    <string name="title_activity_victoire">Revenir à l\'accueil</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
